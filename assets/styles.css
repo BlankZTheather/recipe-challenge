@@ -152,7 +152,7 @@ table tr td {
 }
 
 /*----------Media Queries------------*/
-@media (min-width: 713px) {
+@media (min-width: 44.5625rem) {
     body {
         margin-block: 7vw;
     }
