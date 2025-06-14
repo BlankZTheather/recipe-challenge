@@ -14,7 +14,7 @@ This is my attempt at replicating & improving the Recipe page challenge.
 ### Screenshot
 | My Solution | Goal  |
 | :-----: |:-----:|
-| ![](./screenshot.jpg) | ![]() |
+| ![My Solution](./mysolution.jpg) | ![Goal](./goal.jpg) |
 
 ### Links
 
