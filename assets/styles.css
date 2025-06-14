@@ -28,7 +28,6 @@
 /*Global Styles*/
 html {
     font-family: "Outfit", serif;
-    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -153,7 +152,7 @@ table tr td {
 }
 
 /*----------Media Queries------------*/
-@media (width > 712px) {
+@media (min-width: 713px) {
     body {
         margin-block: 7vw;
     }
